@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "id": 1,  
+        "CAMERA_ID": 661,
+          "CAM_DESC": "NORTHBANK PARK ON LONG ST",
+          "TYPE": "DOWNTOWN",
+          "LATITUDE": "39.9651026925747",
+          "LONGITUDE": "-83.0080983134105"
+        },
+      {
+        "id": 2,  
+        "CAMERA_ID": 671,
+        "CAM_DESC": "NORTHBANK PARK ON SPRING AT NEIL",
+        "TYPE": "DOWNTOWN",
+        "LATITUDE": "39.9657935641117",
+        "LONGITUDE": "-83.0099694608582"
+      },
+      {
+        "id": 3,  
+        "CAMERA_ID": 471,
+        "CAM_DESC": "E WHITTIER ST BETWEEN OHIO AND CHAMPION",
+        "TYPE": "LIVINGSTON",
+        "LATITUDE": "39.9435085131686",
+        "LONGITUDE": "-82.9712118576626"
+      },
+      {
+        "id": 4,  
+        "CAMERA_ID": 531,
+        "CAM_DESC": "W BROAD ST / S WAYNE AVE",
+        "TYPE": "HILLTOP",
+        "LATITUDE": "39.9554913054002",
+        "LONGITUDE": "-83.0643864992801"
+      },
+      {
+        "id": 5,  
+        "CAMERA_ID": 4141,
+        "CAM_DESC": "FOREST ST / ANN ST",
+        "TYPE": "LIVINGSTON",
+        "LATITUDE": "39.9477017300792",
+        "LONGITUDE": "-82.9802947281232"
+      }
+    ]
+  }
